@@ -1,3 +1,7 @@
 Vinay was
 shoubhik here
+<<<<<<< HEAD
 again shoubhik here
+=======
+Hello
+>>>>>>> b3dd6b2945ad5dcf32341fae5b09d647ff508138
