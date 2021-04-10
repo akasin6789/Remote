@@ -1,5 +1,6 @@
 Vinay was
 shoubhik here
+<<<<<<< HEAD
 This is Vinay Again
 
 
@@ -7,3 +8,11 @@ skjdfnjkadflkdfjasf
 
 safgadfh
 
+=======
+<<<<<<< HEAD
+again shoubhik here
+=======
+Hello
+>>>>>>> b3dd6b2945ad5dcf32341fae5b09d647ff508138
+>>>>>>> 3b0fc9c837bb1b8906610c162b6c1d485d34bbe8
+simran hgshbh here
